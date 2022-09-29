@@ -1,0 +1,34 @@
+golang-github-go-logfmt-logfmt (0.5.0-2) unstable; urgency=medium
+
+  * Team upload.
+  * Update Maintainer address to team+pkg-go@tracker.debian.org
+
+ -- Shengjing Zhu <zhsj@debian.org>  Sun, 17 Jan 2021 02:30:07 +0800
+
+golang-github-go-logfmt-logfmt (0.5.0-1) unstable; urgency=medium
+
+  * Team upload.
+
+  [ Alexandre Viau ]
+  * Point Vcs-* urls to salsa.debian.org.
+
+  [ Debian Janitor ]
+  * Apply multi-arch hints.
+    + golang-github-go-logfmt-logfmt-dev: Add Multi-Arch: foreign.
+
+  [ Shengjing Zhu ]
+  * New upstream version 0.5.0
+  * Update uscan watch file to version 4
+  * Update Section to golang
+  * Update Standards-Version to 4.5.1 (no changes)
+  * Bump debhelper-compat to 13
+  * Add Rules-Requires-Root
+  * Drop patches
+
+ -- Shengjing Zhu <zhsj@debian.org>  Sun, 17 Jan 2021 02:21:31 +0800
+
+golang-github-go-logfmt-logfmt (0.3.0-1) unstable; urgency=medium
+
+  * Initial release. Closes: 876650
+
+ -- Martín Ferrari <tincho@debian.org>  Sun, 24 Sep 2017 12:26:32 +0000
